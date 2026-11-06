@@ -22,12 +22,36 @@ This project marks the beginning of my journey into 3D modeling. I created my fi
 
 ### 🛠️ Tools Used
 - Blender
-- Basic blender tools for creating structure or model
 
+---
 
-### 📁 Project Files
-- `first-car.blend` – Blender project file
-- `images/first-car.png` – Project preview image
+### 🗓️ Day 02 – Camera, Lighting & Materials
+
+Today I explored the basics of making 3D objects look better in Blender.
+
+**✨ What I Learned**
+
+- 📷 **Camera:** Learned how to position and use the camera to capture an image of my 3D object.
+- 💡 **Three-Point Lighting:** Explored the three basic lights:
+  - Key Light
+  - Fill Light
+  - Back Light
+- 🎨 **Materials:** Learned the basics of applying materials and changing the appearance of objects.
+- 🖼️ **Rendering:** Explored how camera positioning, lighting, and materials work together to create a final render.
+
+### 🖼️ Practice & Experiments
+
+Here are some screenshots and renders from today's learning.
+
+![Three Point Lighting Practice](images/light-camera.png)
+
+![Materials and Rendering Practice](images/render-monkey.png)
+
+**💭 My Experience**
+
+It was fun learning how lighting and camera angles can completely change the look of a 3D object. I also enjoyed experimenting with different lighting setups.
+
+Still learning, still experimenting, and enjoying Blender! 🚀
 
 ---
 
@@ -38,7 +62,7 @@ This repository will be updated with more creative Blender projects.
 | No. | Project Name | Status |
 |---|---|---|
 | 01 | My First Car 🚗 | Completed |
-| 02 | Coming Soon | 🔜 |
+| 02 | Lighting Camera Materials basic | Completed |
 | 03 | Coming Soon | 🔜 |
 | 04 | Coming Soon | 🔜 |
 
