@@ -22,9 +22,8 @@ This project marks the beginning of my journey into 3D modeling. I created my fi
 
 ### 🛠️ Tools Used
 - Blender
-- 3D Modeling
-- Materials & Texturing
-- Lighting & Rendering
+- Basic blender tools for creating structure or model
+
 
 ### 📁 Project Files
 - `first-car.blend` – Blender project file
