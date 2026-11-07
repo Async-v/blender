@@ -47,6 +47,26 @@ Here are some screenshots and renders from today's learning.
 
 ![Materials and Rendering Practice](images/render-monkey.png)
 
+### 🗓️ Day 03 – Backgrounds & Scene Lighting
+
+Today I learned about background basics in Blender and experimented with creating a render using a background and lighting.
+
+**✨ What I Learned**
+
+**🌄 Background Basics:** Learned how to add and set up a background for a 3D scene.
+
+**💡 Lighting:** Practiced using lights to illuminate both the object and its surroundings.
+
+**🎨 Scene Setup:** Explored how backgrounds and lighting work together to create an interesting scene.
+
+**🖼️ Rendering:** Created my first render with a background and lighting setup.
+
+**🖼️ Practice & Experiments**
+
+Here are some screenshots and renders from today's learning.
+
+![Render with Background](images/background-render.png)
+
 **💭 My Experience**
 
 It was fun learning how lighting and camera angles can completely change the look of a 3D object. I also enjoyed experimenting with different lighting setups.
