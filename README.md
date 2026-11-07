@@ -65,6 +65,8 @@ Today I learned about background basics in Blender and experimented with creatin
 
 Here are some screenshots and renders from today's learning.
 
+![Render with Background](images/background-with-render.png)
+
 ![Render with Background](images/background-render.png)
 
 **💭 My Experience**
