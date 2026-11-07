@@ -83,7 +83,7 @@ This repository will be updated with more creative Blender projects.
 |---|---|---|
 | 01 | My First Car 🚗 | Completed |
 | 02 | Lighting Camera Materials basic | Completed |
-| 03 | Coming Soon | 🔜 |
+| 03 | Render with Background | Completed |
 | 04 | Coming Soon | 🔜 |
 
 ---
