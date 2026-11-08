@@ -69,6 +69,26 @@ Here are some screenshots and renders from today's learning.
 
 ![Render with Background](images/background-render.png)
 
+### 🗓️ Day 04 – Understanding Textures (Brick Texture)
+
+Today I learned about textures in Blender and how they help make 3D objects and renders look more realistic.
+
+**✨ What I Learned**
+
+**🧱 Textures:** Understood what textures and how they add surface details to 3D objects.
+
+**🎨 Brick Texture:** Explored the Brick Texture in Blender and learned how to use it.
+
+**🔍 Realism:** Learned how textures can make simple materials look more detailed and realistic.
+
+**🖼️ Rendering:** Created a render using a brick texture and experimented with its appearance.
+
+**🖼️ Practice & Experiments**
+
+Here are some screenshots and renders from today's learning.
+
+![Brick render front image](images/texture-images/brick-texture-front.png) ![Brick render side image](images/texture-images/brick-texture-side.png)
+
 **💭 My Experience**
 
 It was fun learning how lighting and camera angles can completely change the look of a 3D object. I also enjoyed experimenting with different lighting setups.
@@ -86,7 +106,7 @@ This repository will be updated with more creative Blender projects.
 | 01 | My First Car 🚗 | Completed |
 | 02 | Lighting Camera Materials basic | Completed |
 | 03 | Render with Background | Completed |
-| 04 | Coming Soon | 🔜 |
+| 04 | Textures | Completed |
 
 ---
 
