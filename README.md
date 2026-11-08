@@ -87,7 +87,7 @@ Today I learned about textures in Blender and how they help make 3D objects and 
 
 Here are some screenshots and renders from today's learning.
 
-![Brick render front image](images/texture-images/brick-texture-front.png) ![Brick render side image](images/texture-images/brick-texture-side.png)
+![Brick render image](images/texture-images/brick-texture.png) ![Brick render side image](images/texture-images/brick-texture-side.png)
 
 **💭 My Experience**
 
