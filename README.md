@@ -122,7 +122,7 @@ This repository will be updated with more creative Blender projects.
 
 <p align="center">
   <img src="models/shots/shot-with-tools.png" width="45%" />
-  <img src="models/shots/shots-with0bg-materials.png" width="45%" />
+  <img src="models/shots/shots-with-bg-materials.png" width="45%" />
 </p>
 
 ## 🎯 My Goal
