@@ -43,9 +43,10 @@ Today I explored the basics of making 3D objects look better in Blender.
 
 Here are some screenshots and renders from today's learning.
 
-![Three Point Lighting Practice](images/light-camera.png)
-
-![Materials and Rendering Practice](images/render-monkey.png)
+<p align="center">
+  <img src="images/light-camera.png" width="45%" />
+  <img src="images/render-monkey.png" width="45%" />
+</p>
 
 ### 🗓️ Day 03 – Backgrounds & Scene Lighting
 
@@ -65,9 +66,10 @@ Today I learned about background basics in Blender and experimented with creatin
 
 Here are some screenshots and renders from today's learning.
 
-![Render with Background](images/background-with-render.png)
-
-![Render with Background](images/background-render.png)
+<p align="center">
+  <img src="images/background-with-render.png" width="45%" />
+  <img src="images/background-render.png" width="45%" />
+</p>
 
 ### 🗓️ Day 04 – Understanding Textures (Brick Texture)
 
@@ -87,7 +89,10 @@ Today I learned about textures in Blender and how they help make 3D objects and 
 
 Here are some screenshots and renders from today's learning.
 
-![Brick render image](images/texture-images/brick-texture.png) ![Brick render side image](images/texture-images/brick-texture-side.png)
+<p align="center">
+  <img src="images/texture-images/brick-texture.png" width="45%" />
+  <img src="images/texture-images/brick-texture-side.png" width="45%" />
+</p>
 
 **💭 My Experience**
 
@@ -107,8 +112,18 @@ This repository will be updated with more creative Blender projects.
 | 02 | Lighting Camera Materials basic | Completed |
 | 03 | Render with Background | Completed |
 | 04 | Textures | Completed |
+| 05 | Practice Project | Completed |
 
 ---
+
+## 📚 Practice Projects
+
+**Today's Blender project: Bleu de Chanel Perfume Bottle!**
+
+<p align="center">
+  <img src="models/shots/shot-with-tools.png" width="45%" />
+  <img src="models/shots/shots-with0bg-materials.png" width="45%" />
+</p>
 
 ## 🎯 My Goal
 
